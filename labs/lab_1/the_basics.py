@@ -23,6 +23,7 @@ w = 10**(-np.linspace(1,10,10))
 # Create new x array with same length as w
 x = np.arange(0,len(w))
 
+# Plot x vs w on semilogy plot
 plt.semilogy(x, w)
 plt.xlabel('X')
 plt.ylabel('W')
