@@ -31,6 +31,7 @@ plt.title('X vs W Seminology Plot')
 
 s = 3*w
 
+# add x vs y to same figure and show
 plt.semilogy(x, s)
 
 plt.show()
