@@ -20,6 +20,7 @@ w = 10**(-np.linspace(1,10,10))
 
 # w is a vector with increasing orders of magnitude
 
+# Create new x array with same length as w
 x = np.arange(0,len(w))
 
 plt.semilogy(x, w)
