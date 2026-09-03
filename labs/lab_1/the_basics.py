@@ -12,6 +12,7 @@ y = np.arange(0, 50)
 
 
 # Print first three entries of x
+# Verify the numpy array is as we want
 print('the first three entries of x are: ', x[:3])
 
 # vector w
