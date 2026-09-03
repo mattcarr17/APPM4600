@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Create two Numpy Arrays
+# These will be used to create semilogy plot
 
 x = np.linspace(0, 100, num=50)
 y = np.arange(0, 50)
