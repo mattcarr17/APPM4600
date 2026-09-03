@@ -2,6 +2,10 @@
 
 Homework and labs for APPM4600 (Numerical Methods and Scientific Computing) at CU Boulder.
 
+### Description
+
+Course explores numerical and computational solutions to nonlinear equationns, interpolation, approximation techniques, solutions of linear systems, and eigenvalue problems. All labs and homeworks will be stored here from throughout the semester.
+
 ```
 ├── APPM4600
 │   ├── README.md
